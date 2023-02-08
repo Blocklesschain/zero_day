@@ -1,1 +1,1 @@
-~My personal work~
+uname prints system information
